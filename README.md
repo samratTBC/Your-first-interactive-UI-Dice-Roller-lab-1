@@ -6,7 +6,7 @@ The activity deals with the basic text view button and on click Listener. The ob
 
 ----------------------------------------------------------------
 
-#Do it yourself -2
+# Do it yourself
 
 In the do-it-yourself exercise, an extra text view is added such that the random number is also put in the new text view.
 
